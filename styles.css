@@ -1,0 +1,77 @@
+body{
+    background-color: #201F1F;
+    color: #ACACA0;
+    font-family: Tannenberg Fett, Roboto;
+    margin: 0px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+ 
+@font-face {
+    font-family: "Tannenberg Fett"; 
+    src: url("fonts/Tannenbergfett.ttf") format("truetype"); 
+}
+
+.top-menu {
+    margin-top: 62px;
+    margin-left: 155px;
+    margin-right: 155px;
+
+}
+
+.logo {
+    background-image: url(images/logo.svg);
+    background-repeat: no-repeat;
+    width: 55px;
+    height: 46px;
+}
+
+.menu {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.menu-item {
+    margin-left: 30px;
+}
+
+.frame-first {
+    margin-top: 120px;
+}
+
+.pic {
+    margin-left: 155px;
+    width: 325px;
+    height: 502px;
+    float: left;
+}
+
+.present {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+.text h1{
+    font-family: Tannenberg Fett;
+    font-size: 72px;
+    color: #B32229;
+    line-height: 115%;
+    letter-spacing: 5px;
+    margin: 0px;
+}
+
+.text p{
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    margin: 0px;
+    line-height: 130%;
+}
