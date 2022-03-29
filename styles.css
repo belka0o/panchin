@@ -9,7 +9,7 @@ body{
  
 @font-face {
     font-family: "Tannenberg Fett"; 
-    src: url("fonts/Tannenbergfett.ttf") format("truetype"); 
+    src: url("fonts/TannenbergFett.ttf") format("truetype"); 
 }
 
 .top-menu {
